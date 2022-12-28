@@ -1,4 +1,4 @@
-# MassUnzip :construction_worker: :building_construction:
+# MassUnzip (v1.2) :construction_worker: :building_construction:
 * :bricks: Unzip all .zips of the target location.
 * :wood: Prompts user to confirm the unzip process, for "overwriting" purposes.
 * :construction: ADVICE: Place all your zips to unzip into a special folder and point to this folder, less "overwrite" problems.
